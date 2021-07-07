@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.14)
 project(mpdecimal)
 
 option(mpdecimal_STATIC "If it should be compiled static or dynamic" ON)
-option(mpdecimal_EXAMPLES "If it should be compiled static or dynamic" ON)
+option(mpdecimal_EXAMPLES "If it should be compiled static or dynamic" OFF)
 
 
 
